@@ -21,8 +21,6 @@ nav_order: 2
 
 ## Introduction
 
-In this course, we’ll read and discuss the latest language modeling and representation learning methods in natural language processing. This includes prominent deep learning architectures including transformers, methods of self-supervised learning and transfer learning, contrastive learning, large language models and the power of scale, emergent properties of large language models, parameter efficient fine-tuning methods, learning from few training examples and task instructions, methods for making large language models more efficient, applications to other fields, and other recent topics in contemporary NLP.
-
 This graduate level special topics course examines emerging frontiers in language modeling research. Specifically, this offering will focus on the following topics (subject to minor changes): 
 * Reasoning and Tool Use: Understanding model abilities and limitations in performing complex, multi-step inference.
 * Long inputs and outputs: Analyzing model performance on long-context processing and long-form generation, including data requirements and efficiency considerations.
