@@ -36,7 +36,7 @@ Students who participate in this class are expected to be self-motivated graduat
 
 Prerequisites: CSE 5525 is highly recommended; students must have experience with machine learning and deep learning including necessary mathematical background (i.e., they should have taken courses in linear algebra (Math 2568), multivariate calculus, probability, and statistics.). Some experience with natural language processing is required. We will touch upon the basics of language modeling and jump right into advanced topics.
 
-Students should also feel comfortable with implementing machine learning algorithms and understanding/running open source machine learning code.
+Students should also feel comfortable with implementing machine learning algorithms and understanding/running open source machine learning code, specifically on GPUs, using libraries such as Pytorch or Jax.
 
 Students should also have experience with reading machine learning papers and developing a decent understanding of the main concepts/ideas presented in the paper.
 

@@ -34,27 +34,31 @@ The format of the class will be a mix of lectures and research paper presentatio
 ## Learning Resources
 
 ### Textbook
-No required textbook. But if you are interested in textbooks or book chapters:
+No required textbook, we will read research papers in this course. But if you are interested, the following textbooks might be useful to understand certain topics we will cover in the course.
 
-* A Primer on Neural Network Models for Natural Language Processing.
-* Natural Language Processing with Transformers
-* On the Opportunities and Risks of Foundation Models
+* [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/abs/1510.00726).
+* [Natural Language Processing with Transformers](https://nlp-with-transformers.github.io/website/)
+* [RLHF book](https://rlhfbook.com/)
 
 We will be reading research papers from premier conferences in the field E.g., ACL, EMNLP, ICLR, NeurIPS, ICML, and NAACL, among others.
 
 ## Communication
 
-For Submitting assignments: [Canvas](https://osu.instructure.com/courses/219498).
+We will primarily use Microsoft Teams for announcements and student discussions with any instrutor post cross-posted on Canvas. We will not regularly check Canvas, so please do not post anything there. For any questions / comments, please use teams. 
 
-For announcements/discussions: [Teams](https://teams.microsoft.com/l/team/19%3Am1Yif0euIagov96GEgqKtUKFPLuIZEU9ymMIEIcxQ6U1%40thread.tacv2/conversations?groupId=cc18a6b3-a224-40b6-8e5d-7b85857a791c&tenantId=eb095636-1052-4895-952b-1ff9df1d1121)
+Canvas Link:  [CSE 5539 Canvas](https://osu.instructure.com/courses/219498).
 
-Please email me if you have not been added to either of these platforms. 
+If you are registered for the course and not yet in the course team, please click this [link](https://teams.microsoft.com/l/team/19%3Am1Yif0euIagov96GEgqKtUKFPLuIZEU9ymMIEIcxQ6U1%40thread.tacv2/conversations?groupId=cc18a6b3-a224-40b6-8e5d-7b85857a791c&tenantId=eb095636-1052-4895-952b-1ff9df1d1121) to join and and you will be added after instructor approval.
+
+For occasional attendance and quizzes, we will use [TopHat](https://app.tophat.com/e/434791).
+
+Please email the instructor if you face any issues in being added to these platform.
 
 ## Content
 For much of the semester, each class will involve the presentation and discussion of recent important papers. The objective of the course is to learn about and discuss the latest developments in Language Modeling and broadly NLP, and help the participants understand their broad implications.
 
 ### Presenters
-Each paper will be presented by a group of students each with an assigned "role". This role defines the lens through which they read the paper and determines what they prepare for the group in-class discussion. Here are the roles we will experiment with:
+Each paper will be presented by a group of students each with an assigned "role". This role defines the lens through which they read the paper and determines what they prepare for the group in-class discussion. Here are the roles we will experiment with (more will be added soon):
 
 Stakeholder ✍️: Act as if you're the authors of this paper. Describes their motivation, problem definition, method and experimental findings of this paper. (time budget: 15 minutes)
 
@@ -71,9 +75,9 @@ Who presents what role and when? In a given class session, two papers centered a
 What slides? To minimize time spent context switching or fighting with screen sharing/projector dongles, we will have a shared pool of slides. Each role group are encouraged to title their slides with "[role emoji]: [student name]" (as in "🏺: Jane, John") so that the slides are quickly identified during the session. If you choose to make slides, you're not expected to prepare a full-blown presentation -- they're encouraged for visual aid and facilitating the presentation.
 
 ### Non-Presenters
-If you aren't in the presenting group during a given class period: Come up with one question / discussion point about the paper (either something you're confused about or something you'd like to hear discussed more). Submit this question to Canvas (a submission link will be provided before the class)
+If you aren't in the presenting group during a given class period: Come up with one question / discussion point about the paper (either something you're confused about or something you'd like to hear discussed more). Submit this question to TopHat (a submission link will be provided before the class)
 
-During the class: While only a subset of the class will participate in presenting a paper, the rest of the class is expected to come to class ready to participate in the discussions.
+During the class: While only a subset of the class will participate in presenting a paper, the rest of the class is expected to come to class ready to participate in the discussions. The instructor might call upon you to answer a question raised during the discussion.
 
 ## Grading
 
@@ -89,15 +93,15 @@ This is a seminar level course and instead of exams, grades will be based on lea
 * 10% Active participation
     Each student, when not presenting, will engage in discussions about the paper. They will act as audience or reviewers of the paper. They will discuss strengths, weaknesses and possible extensions/solutions
 
-* 10% Turn in questions and occasional quiz sheets.
+* 10% Turn in questions and occasional quizzes.
     * Quizes will be based on small group discussions and will be distributed occasionally in some (not all) of the sessions and must be turned in by next day after the class.
 
 ### Class project (55%) 
 
-Students must complete a final research project on a topic of their choice related to the class. The students can team up with other students but the team size is limited to 2 students. (In rare cases and depending on the scope of the proposed project, a group of size 3 may be also allowed). See here for [how to choose a project](https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_5_projects.pdf).
+Students must complete a final research project on a topic of their choice related to the class. The students can team up with other students but the team size is limited to 3 students. Larger group require instructor approval. 
 
-* 10%: proposal (due September 30)
-    * Students should submit a 1-2 page proposal for their project by week 4-5. The proposal should: state and motivate the problem, and position the proposed project within related work. The project should propose either a novel research, a novel investigation of existing methods, an extension of prior work for a specific purpose, or a new application. It should also include a brief description of the approach as well as the experimental plan (e.g., baselines, datasets, etc) to validate the effectiveness of the approach.
+* 10%: proposal (due September 20)
+    * Students should submit a 1-2 page proposal for their project by week 3-4. The proposal should: state and motivate the problem, and position the proposed project within related work. The project should propose either a novel research, a novel investigation of existing methods, an extension of prior work for a specific purpose, or a new application. It should also include a brief description of the approach as well as the experimental plan (e.g., baselines, datasets, etc) to validate the effectiveness of the approach.
 
 * 10%: project progress report
     * 2-3 page document due by week 10-11 (around the time of mid-term). It should describe the project goal and related work, initial results, and the plan continuing the project. 
