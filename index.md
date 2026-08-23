@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Advanced Topics in Natural Language Processing
+title: Special Topics in Large Language Models
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Advanced Topics in Natural Language Processing
+  name: Special Topics in Large Language Models
 ---
 
 <!-- # {{ site.tagline }} -->
@@ -22,13 +22,21 @@ seo:
 
 ## Welcome to 17-950 Crafting Software-->
 
-In this research driven course, we will read and discuss the latest language modeling and representation learning methods in natural language processing. This includes prominent deep learning architectures including transformers, methods of self-supervised learning and transfer learning,, large language models and the power of scale, emergent properties of large language models, parameter efficient fine-tuning methods, learning from few training examples, task instructions, preferences, methods for making large language models more efficient, applications to other fields, and other recent topics in contemporary NLP. The format of the class will be a mix of lectures and research paper presentations. 
+In this course, we’ll read and discuss the latest language modeling and representation learning methods in natural language processing. This includes prominent deep learning architectures including transformers, methods of self-supervised learning and transfer learning, contrastive learning, large language models and the power of scale, emergent properties of large language models, parameter efficient fine-tuning methods, learning from few training examples and task instructions, methods for making large language models more efficient, applications to other fields, and other recent topics in contemporary NLP.
+
+This graduate level special topics course examines emerging frontiers in language modeling research. Specifically, this offering will focus on the following topics (subject to minor changes): 
+* Reasoning and Tool Use: Understanding model abilities and limitations in performing complex, multi-step inference.
+* Long inputs and outputs: Analyzing model performance on long-context processing and long-form generation, including data requirements and efficiency considerations.
+* New architectures and modeling paradigms, such as state space models (SSMs) and their variants, recurrent and linear-attention hybrids, and diffusion-based language models.
+* Applications of language models for expert domains including law, medicine, journalism, and scientific discovery.
+
+The format of the class will be a mix of lectures and research paper presentations. The course culminates in a semester long research or implementation project, presented as a final paper and in class presentation. Projects should emphasize novel failure modes, under explored behaviors, or emerging risks rather than incremental performance gains. 
 
 ## Prerequisite Knowledge
 
 Students who participate in this class are expected to be self-motivated graduate students or senior undergraduate students.
 
-Prerequisites: CSE 3521/6521, 5521, 5243, 5525 highly recommended; students must have experience with machine learning and deep learning including necessary mathematical background (i.e., they should have taken courses in linear algebra (Math 2568), multivariate calculus, probability, and statistics.). Experience with natural language processing is a plus. 
+Prerequisites: CSE 5525 is highly recommended; students must have experience with machine learning and deep learning including necessary mathematical background (i.e., they should have taken courses in linear algebra (Math 2568), multivariate calculus, probability, and statistics.). Some experience with natural language processing is required. We will touch upon the basics of language modeling and jump right into advanced topics.
 
 Students should also feel comfortable with implementing machine learning algorithms and understanding/running open source machine learning code.
 
@@ -38,9 +46,9 @@ Note: Students who haven’t taken any of these courses but feel comfortable wit
 
 ---
 
-Lectures: Mondays at 1pm
+Class Timing: Mondays at 12:40-2.30 pm 
 
-Lecture Location: DL 317
+Class Location: DL 357
 
 ---
 

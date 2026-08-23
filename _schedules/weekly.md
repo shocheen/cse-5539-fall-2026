@@ -22,9 +22,9 @@ schedule:
   - name: Monday
     events:
       - name: Lecture
-        start: 1:00 PM
-        end: 2:45 PM
-        location: DL 317
+        start: 12:40 PM
+        end: 2:30 PM
+        location: DL 357
   - name: Tuesday
   - name: Wednesday
   - name: Thursday

@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CSE 5539
-semester: Fall 2024
+semester: Fall 2026
 university: The Ohio State University
-tagline: Advanced NLP (Fall 2024)
-description: Advanced Topics in Natural Language Processing
+tagline: Special Topics in Large Language Models (Fall 2026)
+description: Special Topics in Large Language Models
 author: Sachin Kumar
-baseurl: '/advanced-nlp-fall-2024' # the subpath of your site, e.g. /blog
+baseurl: '/cse-5539-fall-2026' # the subpath of your site, e.g. /blog
 url: 'https://shocheen.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 logo: "/assets/images/osu-2.png"
@@ -33,7 +33,14 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  "Canvas":
+    - "https://osu.instructure.com/courses/219498"
+  "Teams":
+    - "https://teams.microsoft.com/l/team/19%3Am1Yif0euIagov96GEgqKtUKFPLuIZEU9ymMIEIcxQ6U1%40thread.tacv2/conversations?groupId=cc18a6b3-a224-40b6-8e5d-7b85857a791c&tenantId=eb095636-1052-4895-952b-1ff9df1d1121"
+  "TopHat":
+    - "https://app.tophat.com/e/362400/"
 footer_content:
+
 
 # Collections for website data
 collections:

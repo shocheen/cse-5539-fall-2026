@@ -1,5 +1,5 @@
 ---
-title: Course Overview & Language Modeling Basics (August 26)
+title: Course Overview & Language Modeling Basics (August 31)
 ---
 
 ### Slides: 

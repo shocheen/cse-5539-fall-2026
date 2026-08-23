@@ -23,6 +23,16 @@ nav_order: 2
 
 In this course, we’ll read and discuss the latest language modeling and representation learning methods in natural language processing. This includes prominent deep learning architectures including transformers, methods of self-supervised learning and transfer learning, contrastive learning, large language models and the power of scale, emergent properties of large language models, parameter efficient fine-tuning methods, learning from few training examples and task instructions, methods for making large language models more efficient, applications to other fields, and other recent topics in contemporary NLP.
 
+This graduate level special topics course examines emerging frontiers in language modeling research. Specifically, this offering will focus on the following topics (subject to minor changes): 
+* Reasoning and Tool Use: Understanding model abilities and limitations in performing complex, multi-step inference.
+* Long inputs and outputs: Analyzing model performance on long-context processing and long-form generation, including data requirements and efficiency considerations.
+* New architectures and modeling paradigms, such as state space models (SSMs) and their variants, recurrent and linear-attention hybrids, and diffusion-based language models.
+* Applications of language models for expert domains including law, medicine, journalism, and scientific discovery.
+
+The format of the class will be a mix of lectures and research paper presentations. The course culminates in a semester long research or implementation project, presented as a final paper and in class presentation. Projects should emphasize novel failure modes, under explored behaviors, or emerging risks rather than incremental performance gains. 
+
+**Prerequisites**: CSE 5525 or instructor consent. Undergraduate students require instructor permission to enroll. 
+
 ## Learning Resources
 
 ### Textbook
@@ -32,18 +42,18 @@ No required textbook. But if you are interested in textbooks or book chapters:
 * Natural Language Processing with Transformers
 * On the Opportunities and Risks of Foundation Models
 
-We will be reading research papers from premier conferences in the field E.g., ACL, EMNLP, NAACL, ICLR, NeurIPS, ICML, ...
+We will be reading research papers from premier conferences in the field E.g., ACL, EMNLP, ICLR, NeurIPS, ICML, and NAACL, among others.
 
 ## Communication
 
-For Submitting assignments: Canvas (https://osu.instructure.com/courses/171551).
+For Submitting assignments: [Canvas](https://osu.instructure.com/courses/219498).
 
-For announcements: [Teams](https://teams.microsoft.com/l/team/19%3Agv2tVuH9zDjPRVvZGiRG_za_akGSSqv6c7AVbqDAAcI1%40thread.tacv2/conversations?groupId=a7aaf6bb-cf61-40f4-993f-b84ca08a9f2b&tenantId=eb095636-1052-4895-952b-1ff9df1d1121)
+For announcements/discussions: [Teams](https://teams.microsoft.com/l/team/19%3Am1Yif0euIagov96GEgqKtUKFPLuIZEU9ymMIEIcxQ6U1%40thread.tacv2/conversations?groupId=cc18a6b3-a224-40b6-8e5d-7b85857a791c&tenantId=eb095636-1052-4895-952b-1ff9df1d1121)
 
 Please email me if you have not been added to either of these platforms. 
 
 ## Content
-For much of the semester, each class will involve the presentation and discussion of recent important papers. The objective of the course is to instill a holistic view of the latest developments in Language Modeling and broadly NLP, and help the participants understand their broad implications.
+For much of the semester, each class will involve the presentation and discussion of recent important papers. The objective of the course is to learn about and discuss the latest developments in Language Modeling and broadly NLP, and help the participants understand their broad implications.
 
 ### Presenters
 Each paper will be presented by a group of students each with an assigned "role". This role defines the lens through which they read the paper and determines what they prepare for the group in-class discussion. Here are the roles we will experiment with:
