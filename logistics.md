@@ -22,10 +22,13 @@ nav_order: 2
 ## Introduction
 
 This graduate level special topics course examines emerging frontiers in language modeling research. Specifically, this offering will focus on the following topics (subject to minor changes): 
+
 * Reasoning and Tool Use: Understanding model abilities and limitations in performing complex, multi-step inference.
 * Long inputs and outputs: Analyzing model performance on long-context processing and long-form generation, including data requirements and efficiency considerations.
 * New architectures and modeling paradigms, such as state space models (SSMs) and their variants, recurrent and linear-attention hybrids, and diffusion-based language models.
 * Applications of language models for expert domains including law, medicine, journalism, and scientific discovery.
+
+The broader theme of this seminar is: Constraint driven progress in language modeling research. Each class will explore different kinds of constraints such as data, compute, memory, time, and more, and how it led to innovative solutions.
 
 The format of the class will be a mix of lectures and research paper presentations. The course culminates in a semester long research or implementation project, presented as a final paper and in class presentation. Projects should emphasize novel failure modes, under explored behaviors, or emerging risks rather than incremental performance gains. 
 
@@ -68,6 +71,12 @@ Archaeologist 🏺: Determine where this paper sits in the context of previous a
 
 Visionary 🔭: Propose an imaginary follow-up research project or a new application -- not just based on the current but only possible due to the existence and success of the current paper. (time budget: 10 minutes)
 
+AI Reviewer 🤖: Before reading the paper, prompt an AI system to review it for you, then read it, and critique the AI review (only written submission).
+
+Reproducer 👾: Suppose you are tasked with reproducing the paper as faithfully as possible. Is it possible with the published artifacts? (only written submission)
+
+Theme Context: Explain how this paper relates to the others we have read and the theme of the seminar (only written submission).
+
 The presentation of each role will be done individually or in a group of two depending on the complexity of the paper. In case of a group presentation the presenters may decide how to divide the work among themselves but it should be roughly equal. 
 
 Who presents what role and when? In a given class session, two papers centered around a theme will be discussed. The students will each be given a random role (determined at least 10 days before the presentation). Each role (irrespective of how many students are assigned to it) should aim for specified time budgets for each role. You're encouraged to have slides for your role, though it is not mandatory. If you do so, I would recommend less than 7-10 slides to make sure stay within our time budget.
@@ -100,7 +109,7 @@ This is a seminar level course and instead of exams, grades will be based on lea
 
 Students must complete a final research project on a topic of their choice related to the class. The students can team up with other students but the team size is limited to 3 students. Larger group require instructor approval. 
 
-* 10%: proposal (due September 20)
+* 10%: proposal (due September 21)
     * Students should submit a 1-2 page proposal for their project by week 3-4. The proposal should: state and motivate the problem, and position the proposed project within related work. The project should propose either a novel research, a novel investigation of existing methods, an extension of prior work for a specific purpose, or a new application. It should also include a brief description of the approach as well as the experimental plan (e.g., baselines, datasets, etc) to validate the effectiveness of the approach.
 
 * 10%: project progress report
