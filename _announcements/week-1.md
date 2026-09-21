@@ -1,6 +1,6 @@
 ---
 title: Foundational homework released!
-week: 0
+week: 1
 date: 2026-08-31
 ---
 
